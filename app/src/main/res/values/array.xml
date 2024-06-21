@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="options_array">
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+</resources>
